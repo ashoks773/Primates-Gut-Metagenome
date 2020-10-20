@@ -26,7 +26,6 @@ samtools view -b -f 12 -F 256 HU100_S17_prinseq_good_Rtjq_mapped_and_unmapped.ba
 samtools sort -n HU100_S17_prinseq_good_Rtjq_bothEnds_Unmapped.bam > HU100_S17_prinseq_good_Rtjq_bothEnds_Unmapped_sorted.bam
 bedtools bamtofastq -i HU100_S17_prinseq_good_Rtjq_bothEnds_Unmapped_sorted.bam -fq HU100_S17_prinseq_good_Rtjq_host_removed_r1.fastq -fq2 HU100_S17_prinseq_good_Rtjq_host_removed_r2.fastq
 
-
 #-Metagenomic Assembly
 #-Spades
 qsub 6_Spades_Assembly.sh
@@ -34,7 +33,6 @@ qsub 6_Spades_Assembly.sh
 
 #-Contigs filtering
 perl Filter_contigs_read_length.pl
-
 
 #-Gene prediction 
 qsub 7_Prodigal.sh
@@ -46,7 +44,6 @@ cat *indexed_GENES.fna > Combined_Human_Indexed.fna
 perl 8_index.pl *fna
 cat *indexed_GENES.fna > Combined_Gorilla_Indexed.fna
 cat Combined_Human_Indexed.fna Combined_Gorilla_Indexed.fna > Combined_Total_Genes.fna
-
 
 #--Construction of Non-Redundant Gene-set
 qsub 9_cdhit.sh
@@ -84,15 +81,12 @@ Gene_abundance <- read.csv (file = "GENE_ABUNDANCE_TABLE.filtered", row.names = 
 Gene_abundance_normalized <- Gene_abundance/colSums(Gene_abundance)[col(Gene_abundance)]		
 write.table (Gene_abundance_normalized, file = "GENE_PROPORTION_TABLE", sep = "\t")
 
-
 #---- Gene Richness analysis
 1. Total number of genes/Total number of reads (For each sample)
 2. Gene abundance table (filtered) was used for the rarefaction analysis (In steps.R)
 
-
 #--- Pick NR-Genes (amino acid sequences) for functional annotations
 perl Get_seqs.new.pl Total_Genes/Combined_Total_Proteins.faa Total_Genes/Combined_Total_Genes.cdhit.fna
-
 
 #---- Kegg Analysis
 /home/gomeza/sharm646/Databases/KEGG_Database
@@ -149,7 +143,6 @@ perl Calculate_ARDB_abundances.pl Total_against_ARDB.BlastOut.ARDB_anot ../Total
 Statistical analysis
 ARDB.R
 
-
 #------ Xenobiotics Degradation Analysis
 blastp -query ~/Metagenomic/Xenobiotics_analysis/xaa -db ~/Metagenomic/Xenobiotics_analysis/protein.fasta -outfmt "6 qseqid sseqid pident length mismatch gapopen qstart qend sstart send evalue bitscore qcovs" -out xaa.Blast_out -num_threads 24
 cat *Blast_out > Total_Xeno_BlastOut
@@ -175,7 +168,6 @@ perl Calculate_ARDB_abundances.pl Total_against_ARDB.BlastOut.ARDB_anot ../Total
 
 Statistical analysis
 ARDB.R
-
 
 #--- Taxonomic analysis Using HMP+NCBI
 blastn -query Final_H_MN_Genes_nt_seq.fasta -db REFERENCE_GENOMES_DATABASE_NCBI_HMP/Reference_Genome_Database -outfmt 6 -num_threads 50 -out Final_H_MN_Genes_nt_NCBI_HMP_BLASTOUT&
@@ -209,6 +201,10 @@ qsub checkM.sh
 
 
 #------ CaZy analysis on Reconstructed Prevotella and Treponema genomes
+1. Gene prediction in the reconstructed Genomes
+2. Genes were mapped against CAZyDB_130918 database
+3. Counts of CAZymes in each bin were calculated based the best hits
+Finally this scirpt was used to generate the final figures
 CaZy_Ana_On_ReconstructedGenomes.R
 
 #---- End
