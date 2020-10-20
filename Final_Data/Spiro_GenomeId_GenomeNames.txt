@@ -1,0 +1,90 @@
+ACYH00000000.faa	Treponema vincentii ATCC 35580
+ADEC00000000.faa
+gi|325475573|gb|EGC78749.1| hypothetical protein HMPREF9353_00001 [Treponema denticola F0402]
+
+==> AE017226.faa <==
+>gi|41815531|gb|AAS10499.1| chromosomal replication initiator protein DnaA [Treponema denticola ATCC 35405]
+
+==> AEFH00000000.faa <==
+>gi|320147988|gb|EFW39474.1| hypothetical protein HMPREF9554_00001 [Treponema phagedenis F0421]
+
+==> AGDQ00000000.faa <==
+>gi|448966327|gb|EMB46983.1| hypothetical protein HMPREF9730_00001, partial [Treponema denticola AL-2]
+
+==> AGDR00000000.faa <==
+>gi|448967462|gb|EMB48096.1| hypothetical protein HMPREF9729_00001, partial [Treponema denticola ASLM]
+
+==> AGDS00000000.faa <==
+>gi|448963093|gb|EMB43775.1| aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase, C subunit [Treponema denticola ATCC 33520]
+
+==> AGDT00000000.faa <==
+>gi|448961257|gb|EMB41964.1| hypothetical protein HMPREF9735_00001, partial [Treponema denticola ATCC 33521]
+
+==> AGDU00000000.faa <==
+>gi|448960548|gb|EMB41257.1| hypothetical protein HMPREF9721_00001 [Treponema denticola ATCC 35404]
+
+==> AGDV00000000.faa <==
+>gi|448955042|gb|EMB35809.1| hypothetical protein HMPREF9726_00001 [Treponema denticola H-22]
+
+==> AGDW00000000.faa <==
+>gi|448953673|gb|EMB34462.1| hypothetical protein HMPREF9725_00001, partial [Treponema denticola H1-T]
+
+==> AGDX00000000.faa <==
+>gi|448952044|gb|EMB32851.1| hypothetical protein HMPREF9727_00001, partial [Treponema denticola MYR-T]
+
+==> AGDY00000000.faa <==
+>gi|448943888|gb|EMB24770.1| RHS repeat-associated core domain-containing protein, partial [Treponema denticola OTK]
+
+==> AGDZ00000000.faa <==
+>gi|448948014|gb|EMB28853.1| hypothetical protein HMPREF9733_00001, partial [Treponema denticola SP33]
+
+==> AGEA00000000.faa <==
+>gi|448946414|gb|EMB27276.1| hypothetical protein HMPREF9724_00001 [Treponema denticola SP37]
+
+==> AGEB00000000.faa <==
+>gi|451703395|gb|EMD57761.1| hypothetical protein HMPREF9728_00001, partial [Treponema denticola US-Trep]
+
+==> AHAB00000000.faa <==
+>gi|513496046|gb|EPF40765.1| hypothetical protein HMPREF9731_00001 [Treponema denticola SP23]
+
+==> AHAC00000000.faa <==
+>gi|513493266|gb|EPF38127.1| hypothetical protein HMPREF9732_00001, partial [Treponema denticola SP32]
+
+==> AHAD00000000.faa <==
+>gi|513489355|gb|EPF34463.1| chorismate synthase [Treponema denticola SP44]
+
+==> ATFC00000000.faa <==
+>gi|513543887|gb|EPF47744.1| hypothetical protein HMPREF1222_00003 [Treponema vincentii F0403]
+
+==> ATFD00000000.faa <==
+>gi|513481344|gb|EPF27199.1| hypothetical protein HMPREF1221_00002 [Treponema socranskii subsp. paredis ATCC 35535]
+
+==> ATFE00000000.faa <==
+>gi|513484631|gb|EPF29990.1| hypothetical protein HMPREF9195_00001, partial [Treponema medium ATCC 700293]
+
+==> ATFF00000000.faa <==
+>gi|513487201|gb|EPF32478.1| hypothetical protein HMPREF9194_00001, partial [Treponema maltophilum ATCC 51939]
+
+==> CP001841.faa <==
+>gi|333736779|gb|AEF82728.1| chromosomal replication initiator protein DnaA [Treponema azotonutricium ZAS-9]
+
+==> CP001843.faa <==
+>gi|333738833|gb|AEF84323.1| chromosomal replication initiator protein DnaA [Treponema primitia ZAS-2]
+
+==> CP002103.faa <==
+>gi|335344044|gb|AEH39960.1| DNA-directed DNA replication initiator protein [Treponema paraluiscuniculi Cuniculi A]
+
+==> CP002374.faa <==
+>gi|374676825|gb|AEZ57118.1| DNA-directed DNA replication initiator protein [Treponema pallidum subsp. pertenue str. SamoaD]
+
+==> CP002631.faa <==
+>gi|328447255|gb|AEB12971.1| Chromosomal replication initiator protein dnaA [Treponema succinifaciens DSM 2489]
+
+==> CP002696.faa <==
+>gi|332179773|gb|AEE15461.1| Chromosomal replication initiator protein dnaA [Treponema brennaborense DSM 12168]
+
+==> CP003902.faa <==
+>gi|485593304|gb|AGK83643.1| DNA-directed DNA replication initiator protein [Treponema pallidum str. Fribourg-Blanc]
+
+==> CP004120.faa <==
+>gi|530723551|gb|AGT42504.1| chromosomal replication initiation protein [Treponema pedis str. T A4]

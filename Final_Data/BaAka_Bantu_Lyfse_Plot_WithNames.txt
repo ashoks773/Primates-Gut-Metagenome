@@ -1,0 +1,35 @@
+Xeno	Log_Odds_Ratio	Group
+A0A0H2Z368 Arylsulfate sulfotransferase	-1.120045392	Bantu
+O15067 Phosphoribosylformylglycinamidine synthase	1.741565945	BaAka
+P00390 Glutathione reductase	-1.082031618	Bantu
+P00395 Cytochrome c oxidase	1.680039691	BaAka
+P03697 Exonuclease	-2.073902594	Bantu
+P04035 3-hydroxy-3-methylglutaryl-coenzyme A	-2.163532421	Bantu
+P04040 Catalase	-3.148524236	Bantu
+P04179 Superoxide dismutase	-1.789668373	Bantu
+P05091 Aldehyde dehydrogenase	-1.669538008	Bantu
+P07203 Glutathione peroxidase 1	-4.404264201	Bantu
+P08236 Beta-glucuronidase	1.029847559	BaAka
+P09110 3-ketoacyl-CoA thiolase	-1.209988615	Bantu
+P11766 Alcohol dehydrogenase	-1.367285841	Bantu
+P21399 Cytoplasmic aconitate hydratase	-1.607293218	Bantu
+P26640 Valine--tRNA ligase	-0.971958464	Bantu
+P26841 Chloramphenicol acetyltransferase	-1.064884296	Bantu
+P27144 Adenylate kinase 4	1.113686976	BaAka
+P27708 CAD protein	1.095377011	BaAka
+P31040 Succinate dehydrogenase	-1.161349866	Bantu
+P34059 N-acetylgalactosamine-6-sulfatase	-3.022985523	Bantu
+P51649 Succinate-semialdehyde dehydrogenase	-1.511069945	Bantu
+P52209 6-phosphogluconate dehydrogenase	-1.417445529	Bantu
+P54687 Branched-chain-amino-acid aminotransferase	-1.769086355	Bantu
+P71278 Pentaerythritol tetranitrate reductase	-1.396397904	Bantu
+Q06203 Amidophosphoribosyltransferase	1.071871378	BaAka
+Q06278 Aldehyde oxidase	-1.473017661	Bantu
+Q8NE62 Choline dehydrogenase	-1.803633959	Bantu
+Q93L51 TetX family tetracycline inactivation enzyme	-3.199172655	Bantu
+Q99707 Methionine synthase	1.281170621	BaAka
+Q99798 Aconitate hydratase	1.883733135	BaAka
+Q9NR19 Acetyl-coenzyme A synthetase	-1.42210084	Bantu
+Q9UGM6 Tryptophan--tRNA ligase	-1.887230637	Bantu
+Q9UJ68 Mitochondrial peptide methionine sulfoxide	-1.218416838	Bantu
+Q9Y3D2 Methionine-R-sulfoxide reductase B2	-1.436098953	Bantu

@@ -1,0 +1,29 @@
+CP002006.faa	Prevotella ruminicola 23
+CP002122.faa	Prevotella melaninogenica ATCC 25845
+CP002589.faa	Prevotella denticola F0289
+CP003368.faa	Prevotella dentalis DSM 3688
+CP003503.faa	Prevotella intermedia 17
+CP003667.faa	Prevotella sp. oral taxon 299 str. F0039
+ACBX00000000.faa	Prevotella copri DSM 18205
+ACIJ00000000.faa	Prevotella tannerae ATCC 51259
+ACKS00000000.faa	Prevotella bergensis DSM 17361
+ACUZ00000000.faa	Prevotella oris F0302
+ACVA00000000.faa	Prevotella veroralis F0319
+ADCT00000000.faa	Prevotella sp. C561
+ADEF00000000.faa	Prevotella timonensis CRIS 5C-B1
+ADFO00000000.faa	Prevotella bivia JCVIHMP010
+ADFQ00000000.faa	Prevotella amnii CRIS 21A-A
+ADGI00000000.faa	Prevotella oulorum F0390
+AEEI00000000.faa	Prevotella marshii DSM 16973
+AEWX00000000.faa	Prevotella multiformis DSM 16608
+AFPX00000000.faa	Prevotella nigrescens ATCC 33563
+AFPY00000000.faa	Prevotella pallens ATCC 700821
+AFXP00000000.faa	Prevotella histicola F0411
+AFZZ00000000.faa	Prevotella stercorea DSM 18206
+AGEK00000000.faa	Prevotella maculosa OT 289
+AGWK00000000.faa	Prevotella micans F0438
+ALJQ00000000.faa	Prevotella sp. MSX73
+AMEP00000000.faa	Prevotella saccharolytica F0055
+AWXC00000000.faa	Prevotella sp. BV3P1
+JACD00000000.faa	Prevotella sp. ICM33
+JNGW00000000.faa	Prevotella loescheii DSM 19665 = JCM 12249 = ATCC 15930

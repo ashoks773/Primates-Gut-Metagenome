@@ -1,0 +1,29 @@
+Pathways	Stat_dist.dir.up	p_dist.dir.up_down	Group
+Biosynthesis of secondary metabolites	2.7141	1.68E-05	Dry
+Inositol phosphate metabolism	5.404	8.22E-05	Dry
+Streptomycin biosynthesis	4.9808	0.00021335	Dry
+Galactose metabolism	3.2631	0.0023519	Dry
+Oxidative phosphorylation	2.4534	0.00254	Dry
+One carbon pool by folate	3.4966	0.0028729	Dry
+Lipopolysaccharide biosynthesis	3.0357	0.0050638	Dry
+Bacterial secretion system	2.3688	0.0093812	Dry
+Biosynthesis of amino acids	1.1774	0.012446	Dry
+Citrate cycle (TCA cycle)	2.1494	0.015852	Dry
+Other glycan degradation	2.5931	0.022615	Dry
+Phenylalanine, tyrosine and tryptophan biosynthesis	1.9159	0.022672	Dry
+Carbon fixation in photosynthetic organisms	1.8589	0.037574	Dry
+Degradation of aromatic compounds	1.558	0.038143	Dry
+Toluene degradation	1.998	0.044848	Dry
+Pyrimidine metabolism	0.72086	0.046381	Dry
+Drug metabolism - other enzymes	2.0387	0.047774	Dry
+Nicotinate and nicotinamide metabolism	1.6711	0.048417	Dry
+ABC transporters	-5.5289	0.050495	Wet
+Phosphonate and phosphinate metabolism	-3.406	0.044402	Wet
+Ascorbate and aldarate metabolism	-3.7857	0.031096	Wet
+Glycerolipid metabolism	-4.2261	0.020704	Wet
+Flagellar assembly	-4.5542	0.013349	Wet
+Nitrotoluene degradation	-4.5369	0.0087917	Wet
+Salmonella infection	-4.8514	0.0050048	Wet
+Bacterial chemotaxis	-5.2495	0.0027103	Wet
+PI3K-Akt signaling pathway	-7.3084	1.86E-05	Wet
+Methane metabolism	-9.3892	7.44E-07	Wet

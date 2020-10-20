@@ -1,0 +1,21 @@
+Xeno	Log_Odds_Ratio	Group
+O75828 Carbonyl reductase	-2.097274495	Wet
+O94808 Glutamine--fructose-6-phosphate aminotransferase	-2.097820135	Wet
+P00492 Hypoxanthine-guanine phosphoribosyltransferase	-1.220003783	Wet
+P03697 Exonuclease	3.263330946	Dry
+P03886 NADH-ubiquinone oxidoreductase	-1.359543918	Wet
+P23921 Ribonucleoside-diphosphate reductase	-2.236178466	Wet
+P26640 Valine--tRNA ligase	-1.21486464	Wet
+P30085 UMP-CMP kinase	1.175085721	Dry
+P32320 Cytidine deaminase	-1.089171738	Wet
+P48506 Glutamate--cysteine ligase catalytic	-4.761006406	Wet
+P49915 GMP synthase	-1.427672904	Wet
+Q06830 Peroxiredoxin-1	-1.942754871	Wet
+Q13867 Bleomycin hydrolase	-2.053304321	Wet
+Q16881 Thioredoxin reductase 1	-2.481868955	Wet
+Q8NE62 Choline dehydrogenase	1.482407831	Dry
+Q99447 Ethanolamine-phosphate cytidylyltransferase	2.742306281	Dry
+Q99707 Methionine synthase	1.067484292	Dry
+Q99798 Aconitate hydratase	1.410217361	Dry
+Q9UJ68 Mitochondrial peptide methionine sulfoxide reductase	1.068113744	Dry
+Q9Y3D2 Methionine-R-sulfoxide reductase B2	2.178439012	Dry

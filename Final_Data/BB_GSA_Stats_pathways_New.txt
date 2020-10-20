@@ -1,0 +1,28 @@
+Pathways	Stat_dist.dir.up	p_dist.dir.up_and_down	Group
+Bacterial secretion system	0.47777	4.80E-05	BaAka
+Alanine, aspartate and glutamate metabolism	0.2528	0.0010984	BaAka
+Phenylalanine, tyrosine and tryptophan biosynthesis	0.081482	0.0013897	BaAka
+2-Oxocarboxylic acid metabolism	0.19722	0.0015623	BaAka
+Vitamin B6 metabolism	1.2452	0.0015811	BaAka
+Vibrio cholerae pathogenic cycle	0.64361	0.0058279	BaAka
+Valine, leucine and isoleucine biosynthesis	0.73589	0.0060793	BaAka
+Nicotinate and nicotinamide metabolism	0.27973	0.0074204	BaAka
+Chloroalkane and chloroalkene degradation	0.41249	0.012682	BaAka
+Chlorocyclohexane and chlorobenzene degradation	0.26429	0.041449	BaAka
+Tropane, piperidine and pyridine alkaloid biosynthesis	0.19404	0.04638	BaAka
+Taurine and hypotaurine metabolism	0.20057	0.04896	BaAka
+Styrene degradation	-2.6186	0.047491	Bantu
+Tyrosine metabolism	-3.3939	0.04641	Bantu
+Valine, leucine and isoleucine degradation	-3.6794	0.028201	Bantu
+beta-Alanine metabolism	-3.1837	0.024703	Bantu
+Porphyrin and chlorophyll metabolism	-4.1198	0.016997	Bantu
+Fatty acid degradation	-3.447	0.013248	Bantu
+Lysine degradation	-3.4228	0.010304	Bantu
+ABC transporters	-7.601	0.0094761	Bantu
+Galactose metabolism	-4.3181	0.0054361	Bantu
+Ascorbate and aldarate metabolism	-3.5489	0.0051791	Bantu
+Microbial metabolism in diverse environments	-9.5622	0.0034915	Bantu
+Benzoate degradation	-4.3956	0.0025147	Bantu
+Aminobenzoate degradation	-4.3304	0.00062826	Bantu
+Two-component system	-8.0009	0.0005151	Bantu
+Phosphotransferase system (PTS)	-6.7984	1.52E-07	Bantu
