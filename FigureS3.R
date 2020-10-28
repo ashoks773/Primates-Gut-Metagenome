@@ -1,6 +1,6 @@
 # Author: Ashok Kumar Sharma
 
-# Step 1: Take only lipid metabolism pathways - from total pathway relative abundance table
+# Step 1: Cumulative abundacnes of Genes involved in the Lipid Metabolism
 Pathway <- read.csv(file = "Lipid_metabolism_raw.txt", row.names=1, header = T, sep = "\t")
 Pathway_proportions <- Pathway/colSums(Pathway)[col(Pathway)]
 Pathway1 <- data.frame(t(Pathway_proportions))
