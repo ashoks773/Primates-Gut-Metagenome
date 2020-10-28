@@ -25,9 +25,7 @@ dev.off ()
 
 distance_bray <-vegdist(Pathway1, "bray")
 adonis(distance_bray ~ Group*Group1, data=metadata, permutations=999)
-#Df SumsOfSqs  MeanSqs F.Model      R2 Pr(>F)   
-#Group      1  0.050977 0.050977  37.087 0.37857   0.01 **
-# Group1     2  0.019079 0.009540   6.940 0.14169   0.01 **
+
 
 #---Gorilla only
 metadata_gorilla <- read.csv (file = "../../../../Metadata_Gorilla.txt", row.names=1, header = T, sep = "\t")
@@ -49,9 +47,7 @@ dev.off ()
 
 dist_bray_gorilla <-vegdist(pathway_gorilla, "bray")
 adonis(dist_bray_gorilla ~ Group1, data=metadata_gorilla, permutations=99)
-#Df SumsOfSqs    MeanSqs F.Model      R2 Pr(>F)  
-#Group2         1 0.0029329 0.00293295  3.8866 0.14474   0.03 *
-# Group1         1 0.0021860 0.00218600  2.8968 0.10788   0.05 *
+
 
 #--- Only Human
 metadata_human <- read.csv (file = "Final_Data/Metadata_Human.txt", row.names=1, header = T, sep = "\t")
@@ -247,5 +243,3 @@ ggplot(data = Fatty.acid.metabolism_melt,aes(x=Group1, y=value, fill=Group1)) + 
 dev.off ()
 wilcox.test(Pathways_sqrt_per_new$Fatty.acid.metabolism ~ Pathways_sqrt_per_new$Group1)
 #W = 155, p-value = 0.007866
-
-
