@@ -70,7 +70,11 @@ So on ...
 
 paste gene_names Counts1 Counts2 Counts3 Counts4 Counts5 Counts6 Counts7 Counts8 Counts9 Counts10 Counts11 Counts12 Counts13 Counts14 Counts15 Counts16 Counts17 Counts18 Counts19 Counts20 Counts21 Counts22 Counts23 Counts24 Counts25 Counts26 Counts27 Counts28 Counts29 Counts30 Counts31 Counts32 Counts33 Counts34 Counts35 Counts36 Counts37 Counts38 Counts39 Counts40 Counts41 Counts42 Counts43 Counts44 Counts45 Counts46 Counts47 Counts48 Counts49 Counts50 Counts51 | cat header - > Gene_count_matrix.tab
 
-perl Calculate_gene_abundance.pl Combined_Total_Genes.cdhit.fna Gene_count_matrix.tab 
+#----Convert the total genes fasta file in single line sequences
+perl seq_single_line.pl Combined_Total_Genes.cdhit.fna
+mv Combined_Total_Genes.cdhit.fna.single Combined_Total_Genes.cdhit.single.fna
+
+perl Calculate_gene_abundance.pl Combined_Total_Genes.cdhit.single.fna Gene_count_matrix.tab 
 (# Total NR genes 4298551)
 
 perl Filter_genes.pl GENE_ABUNDANCE_TABLE 
