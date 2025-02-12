@@ -139,7 +139,8 @@ Assemble reads using Megahit:
 ```bash
 Rscript statistical_analysis.R
 ```
-This pipeline provides a comprehensive workflow for metagenomic data analysis, covering data preprocessing, assembly, annotation, taxonomic classification, and genome reconstruction. Ensure all dependencies are correctly installed before running the scripts. 
+This pipeline provides a comprehensive workflow for metagenomic data analysis, covering data preprocessing, assembly, annotation, taxonomic classification, and genome reconstruction. Please make sure all dependencies are correctly installed before running the scripts. 
+- All intermediate scripts can be found in the **Final_Scripts** folder!!
 
 ### Contact
 For any questions, please contact: 👉 Ashok K. Sharma; ashoks773@gmail.com
