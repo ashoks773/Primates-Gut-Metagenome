@@ -7,7 +7,7 @@ This repository contains a pipeline for metagenomic data analysis, including pre
 
 ### 1. Quality Control
 Run FastQC to assess read quality:
-```sh
+```
 qsub 1_Fastqc_only.sh
 ```
 
