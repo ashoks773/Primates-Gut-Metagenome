@@ -2,7 +2,7 @@
 
 This repository contains the steps and scripts for analyzing metagenomic data, from raw reads to functional and taxonomic annotations. Below is a detailed breakdown of the pipeline.
 
-## Table of Contents
+## Steps
 1. Filtering Steps  
 2. Metagenomic Assembly  
 3. Gene Prediction and Quantification  
